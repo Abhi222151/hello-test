@@ -17,7 +17,8 @@ public class User {
 	private String email;
 	private Long departmentId;
        
-        private Integer roll_num
+        private Integer roll_num;
+        private String color;
 
 	public User() {
 		super();
