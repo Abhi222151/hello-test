@@ -5,6 +5,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
+//Abhijeet Gupta creation
 //Pojo Class
 @Entity
 public class User {
