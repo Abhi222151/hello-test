@@ -8,6 +8,8 @@ import javax.persistence.Id;
 
 
 //Abhijeet Gupta creation
+
+//Skeleton branch created on git hub!!!
 //Pojo Class
 @Entity
 public class User {
