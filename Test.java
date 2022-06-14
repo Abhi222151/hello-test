@@ -8,6 +8,10 @@ import javax.persistence.Id;
 
 
 //Abhijeet Gupta creation
+
+//Skeleton branch created to test  on git hub!!!
+
+// Cretae a new branch update-test to do changes for this branch for now
 //Pojo Class
 @Entity
 public class User {
